@@ -1,6 +1,6 @@
 var random = function(sf,ea){
     return(Math.random()*(ea-sf)+sf);
-};
+}
 
 function itemItemInArray(item, array) {
     var result = 0;
