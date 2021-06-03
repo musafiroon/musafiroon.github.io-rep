@@ -10,4 +10,4 @@ function itemItemInArray(item, array) {
 		}
 	}
 	return (result);
-}
+};
