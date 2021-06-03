@@ -17,18 +17,18 @@ random(1,10);//returns a number between 1 and 10
 ```
 *
 ```javascript
-itemInArray(item, array);\\returns the item number of -item- in array
+noOfItemInArray(item, array);\\returns the item number of -item- in array
 ```
 eg:-
 ```javascript
 var arrayOne=['hello','hai','bye'];
-console.log(itemInArray('hello', arrayOne));//returns 0
+console.log(noOfItemInArray('hello', arrayOne));//returns 0
 ```
 if it was bye then:-
 ```javascript
 
 var arrayOne=['hello','hai','bye'];
-console.log(itemInArray('bye', arrayOne));//returns 2
+console.log(noOfIitemInArray('bye', arrayOne));//returns 2
 
 
 
