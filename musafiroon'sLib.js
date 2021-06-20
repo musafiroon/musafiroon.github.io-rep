@@ -4,7 +4,7 @@ function random(sf, ea) {
 
 function round(n){
     return(Math.round(n));
-}
+};
 
 function noOfItemInArray(item, array) {
     var result = 0;
