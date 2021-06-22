@@ -1,4 +1,4 @@
-#Musafiroon'sLib.js
+# Musafiroon'sLib.js
 
 paste this to your file
 
@@ -6,7 +6,7 @@ paste this to your file
 <script src="https://cdn.jsdelivr.net/gh/musafiroon/rep@master/musafiroon'sLib.js"/>
 ```
 
-##code
+## code
 
 you can use the musafiroonCode.js library for having my codes
 
