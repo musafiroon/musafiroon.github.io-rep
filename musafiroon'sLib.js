@@ -15,3 +15,8 @@ function noOfItemInArray(item, array) {
     }
     return (result);
 };
+
+function or(...functionsOrTextEtc) {
+    var result = round(random(0, arguments.length - 1));
+    return (arguments[result]);
+};
