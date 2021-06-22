@@ -41,7 +41,7 @@ if it was bye then:-
 var arrayOne=['hello','hai','bye'];
 console.log(noOfIitemInArray('bye', arrayOne));//returns 2
 ```
-  *you can try it here:- [codepen]()
+###  * you can try it here:- [codepen]()
 ```
 round()
 ```
