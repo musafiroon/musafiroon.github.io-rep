@@ -23,7 +23,7 @@ It is free to use.
 ```javascript
 random(1,10);//returns a number between 1 and 10
 ```
-  *you can try it here:- [codepen](https://codepen.io/musafiroon/pen/ZEeNQYj)
+  * you can try it here:- [codepen](https://codepen.io/musafiroon/pen/ZEeNQYj)
 
 ### noOfItemInArray
 ```javascript
@@ -41,7 +41,7 @@ if it was bye then:-
 var arrayOne=['hello','hai','bye'];
 console.log(noOfIitemInArray('bye', arrayOne));//returns 2
 ```
-###  * you can try it here:- [codepen]()
+###  you can try it here:- [codepen]()
 ```
 round()
 ```
