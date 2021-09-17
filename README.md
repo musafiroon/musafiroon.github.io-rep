@@ -29,6 +29,7 @@ random(1,10);//returns a number between 1 and 10
 ```javascript
 noOfItemInArray(item, array);\\returns the item number of -item- in array
 ```
+
 eg:-
 ```javascript
 var arrayOne=['hello','hai','bye'];
@@ -45,6 +46,3 @@ console.log(noOfIitemInArray('bye', arrayOne));//returns 2
 ```
 round()
 ```
-
-
-
